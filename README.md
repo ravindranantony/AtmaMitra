@@ -1,6 +1,6 @@
-# ChatGPT Enhanced
+# AtmaMitra - Mental Health Chatbot 
 
-Leverages OpenAI's API enabling the generation of natural language responses to user prompts. Additionally, it enhances ChatGPT's functionality by incorporating speech-to-text and giving users control over the AI's balance of logic and creativity. The user interface, developed with React, offers a simple and seamless interaction with the AI-powered service.
+AtmaMitra Leverages OpenAI's API enabling the generation of natural language responses to user prompts. Additionally, it enhances ChatGPT's functionality by incorporating speech-to-text and giving users control over the AI's balance of logic and creativity. The user interface, developed with React, offers a simple and seamless interaction with the AI-powered service.
 
 ## [Live Website](https://chat-gpt-enhanced.web.app/)
 
